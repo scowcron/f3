@@ -1,0 +1,6 @@
+[submodule "embedded-hal"]
+	path = embedded-hal
+	url = https://github.com/scowcron/embedded-hal.git
+[submodule "stm32f30x-hal"]
+	path = stm32f30x-hal
+	url = https://github.com/scowcron/stm32f30x-hal.git
